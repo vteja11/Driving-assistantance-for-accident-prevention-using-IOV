@@ -1,5 +1,7 @@
 # Driving-assistantance-for-accident-prevention-using-IOV
 
+Driving Assistance For Accident Prevention Using Internet of vehicles
+
 According to a  recent survey by Indian Institute of Technology Bombay 27% of crashes on Indian highways happen due to reasons beyond the control of motorists. I took up this problem as a project titled ‘Driving Assistance for Accident Prevention using internet of vehicles’ and provided a solution by the concept of connected vehicles. Our objective was to reduce the number of road mishaps and provide the information of blind spots to autonomous vehicles by sharing information between vehicles as to predict the probability of an accident and warn the driver using vehicular ad hoc networks (VANET); we could thus assist the driver . We used OMNET, SUMO for simulation computer vision and deep learning algorithms for accurate assistance. The prototype of the project will be completed by April 2019 and presented in 7th “International Conference on Innovation in Computer science and Engineering”
 
 ![](https://github.com/vteja11/Driving-Assitance-For-Accident-Prevention-Using-Internet-of-Things-/blob/master/proposed.png)
@@ -11,4 +13,4 @@ This is a communication infrastructure used to support the route information dur
 1. Decision server: That is additional functional server which collects information from RSU nodes about the traffic (if the nodes are under load condition then power consumption in node is high). 
 2. RSU: Road side unit (RSU) devices are working as Wi-Fi or access point for vehicle nodes and for similar nodes (other RSU) these devices are working as connected link nodes. These RSUs are connected using a backbone bus and in direct communication with the server. 
 3. Vehicle: These are MANET fully functional devices which are able to send and receive data from other devices and also behave as router node. 
-4. Improvements: This is our main goal to achieve the following prospective over the proposed research work.
+
