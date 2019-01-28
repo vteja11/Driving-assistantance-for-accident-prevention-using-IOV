@@ -1,0 +1,11 @@
+Vehicle to Vehicle Communication (V2V): V2V is a technology which enables the vehicles to communicate with each other. 
+ Vehicle to Infrastructure Communication(V2I): Vehicle to-infrastructure communications is the wireless exchange of data between vehicles and highway infrastructure.
+    In this phase vehicle to infrastructure communication is simulated where, the vehicle and decision server communicate with each other for providing the traffic, accidental information over highways 
+    This is a communication infrastructure used to support the route information during traffic over highway. Therefore using the hybrid of V2V, V2I & V2R creates an effective accidental prevention system. 
+    The major part of the proposed system utilizes the following devices:
+ Vehicle to Road Side Unit (V2R): In V2R communication, Road Side Units (RSUs) keep the data of moving nodes i.e. vehicle like speed, distance from RSU, and route information of vehicles.
+
+Decision server: That is additional functional server which collects information from RSU nodes about the traffic (if the nodes are under load condition then power consumption in node is high).
+RSU: Road side unit (RSU) devices are working as Wi-Fi or access point for vehicle nodes and for similar nodes (other RSU) these devices are working as connected link nodes. 
+These RSUs are connected using a backbone bus and in direct communication with the server.
+Vehicle: These are MANET fully functional devices which are able to send and receive data from other devices and also behave as router node.
